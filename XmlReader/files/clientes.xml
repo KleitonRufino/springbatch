@@ -1,0 +1,9 @@
+<clientes>
+	<cliente>
+		<nome>Joao</nome>
+		<sobrenome>Silva</sobrenome>
+		<idade>19</idade>
+		<email>joao@email.com</email>
+	</cliente>
+
+</clientes>
