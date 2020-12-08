@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springbatch</groupId>
-	<artifactId>ArquivoLarguraFixaJob</artifactId>
+	<artifactId>DemonstrativoOrcamentarioJob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ArquivoLarguraFixaJob</name>
-	<description>Job que lê arquivos de largura fixa.</description>
+	<name>DemonstrativoOrcamentarioJob</name>
+	<description>Job que gera um demonstrativo orçamentário a partir de arquivos de lançamentos.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
